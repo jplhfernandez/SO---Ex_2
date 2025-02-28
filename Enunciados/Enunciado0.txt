@@ -1,0 +1,21 @@
+Exercícios Processos Sistemas Operacionais I
+Prof. Leandro Colevati FATEC ZL
+
+Vídeos base:
+1) Processos em Java: https://youtu.be/DqpjyIuhopw
+2) Geração de VMs:
+VM Linux Debian 9 com Redes no VirtualBox - https://youtu.be/bhaVYdlJWmY
+JDK21 e Eclipse no Debian 9 - https://youtu.be/rwfEmwWD1U8
+LinuxLite com JDK21 e Eclipse: https://youtu.be/E3RJj4gdYIE
+3) Github:
+Tutorial Basico GitHub com Eclipse e EGit Usando Chave SSH:
+http://www.youtube.com/watch?v=fFBSazTSGZw
+OU
+Usando Github com Github Desktop em Projetos
+Eclipse: http://www.youtube.com/watch?v=EqHIjlYyS4U
+
+Exercícios:
+1. Acessar a Lista https://drive.google.com/file/d/1CZbLTtGKE_Z-b3dysWUvn7jkiJskBHiG e fazer os
+exercícios 1, 2 e 3. O Exercício 4 é um desafio para os que quiserem fazer.
+Os códigos devem ser carregados para o Github e o formulário respondido com os links dos
+repositórios
